@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-quickstart",
-  "version": "0.4.3",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "name": "nodebb-plugin-daily-checkin",
+  "version": "0.1.0",
+  "description": "A NodeBB plugin that allows users to check in to earn reputation.",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodebb/nodebb-plugin-quickstart"
+    "url": "https://github.com/TASA-Ed/nodebb-plugin-daily-checkin"
   },
   "scripts": {
     "lint": "eslint ."
